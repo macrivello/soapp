@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StackOverflow</string>
+    <string name="search_hint">Search StackOverflow</string>
+    <string name="error">An error occured searching StackOverflow</string>
+</resources>
